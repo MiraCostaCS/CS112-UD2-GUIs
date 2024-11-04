@@ -1,30 +1,9 @@
-# Lesson plan
-  
-  ** this file should contain teacher lesson plan details ** 
+# Unit Deliverable 2 - Final Project GUI
 
-  __ students will never see this __
+Feel free to edit this file to contain a description of your project, as well as your GUI wireframe images. You can simply add them to your project directory and use a relative path, or upload them to [imgur](https://imgur.com/upload).
 
-  ## Learning Objectives
-  1. 
-  2. 
-  3. 
+Use [Markdown](https://gist.github.com/cuonggt/9b7d08a597b167299f0d) to format appropriately.
 
-  Use [Markdown](https://gist.github.com/cuonggt/9b7d08a597b167299f0d) to format your lesson plan.
+## GUI Wireframe
 
-  For example, here is a code block in java10_beta
-```java
-public class Main {
-  public static void main(String[] args) {
-    System.out.println("hello world");
-  }
-}
-```
-
-  
-  Include an image by placing it in the `assets` folder.
-
-  For example, here is the Replit logo:
-
-  ![alt text](instructions/logo.png)
-  
-  
+Place your wireframe image(s) here!
